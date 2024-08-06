@@ -26,12 +26,11 @@ Open intergrated terminal on index.js in order to run "npm i" on the command lin
 
 1. **Clone the repository:**
 
-   ```bash
    git clone https://github.com/your-username/readme-creator.git
-   Open integrated terminal on index.js
-   Enter "node index.js" in the command line
-   Presenteed with npm inquirer questions through sequential order within the directory, the user must provide essential README information
-   Once completed a file named (Generated)README.md will be made. 
+   2. Open integrated terminal on index.js
+   3. Enter "node index.js" in the command line
+   4. Presenteed with npm inquirer questions through sequential order within the directory, the user must provide essential README information
+   5. Once completed a file named (Generated)README.md will be made. 
 
    Screen Shot: 
 
